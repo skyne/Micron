@@ -1,1 +1,0 @@
-Easier z endstop housing to print.
